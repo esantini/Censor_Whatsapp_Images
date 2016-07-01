@@ -6,7 +6,7 @@ Censored images may be viewed by clicking on it, close the image-viewer to censo
 
 You may censor 1 or more persons' images in each group or all of them at once.
 
-To use the script put it in tamperMonkey's scripts or run it in the console
+To use the script put it in TamperMonkey's scripts or run it in the console
 
 Configuration variables are at the top, you may edit these:
 
